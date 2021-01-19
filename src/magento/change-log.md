@@ -597,7 +597,7 @@ Our documentation is continually updated with new topics, clarifications, and co
 |[Themes]({% link design/themes.md %})|Added filtering for themes and screenshot.|
 |[Installation]({% link magento/installation.md %})|Updated all information and links for system requirements and installation instructions.|
 |[Customer Groups]({% link customers/customer-groups.md %})|Updated menu location for option, moved to Customers from Stores. Updated screenshots. Add filtering information.|
-|[Security Best Practices]({% link magento/magento-security-best-practices.md %})|Updated linked and added information for securing and troubleshooting your Magento Admin.|
+|Security Best Practices|Updated linked and added information for securing and troubleshooting your Magento Admin.|
 |[Amazon Pay Logs]({% link system/amazon-logs.md %})|Updated content for accessing Amazon Pay logs.|
 
 ## October 2018
