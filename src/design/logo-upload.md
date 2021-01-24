@@ -13,6 +13,7 @@ The logo image resides in the following location on the server. Any image file w
 | Full path | `app/design/frontend/[vendor]/[theme]/web/images/logo.gif` |
 | Relative path | `images/logo.gif` |
 
+The folder structure on Magento 2.4.1 installed with composer is different and includes /pub. 
 If you do not know the size of the logo or other images used in your theme, open the page in a browser, right-click the image, and inspect the element.
 
 {:.bs-callout-info}
